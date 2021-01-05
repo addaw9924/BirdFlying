@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DBox : MonoBehaviour
 {
-
+    //테스트용 코드 입니다 
     Rigidbody2D Boxs;
     // Start is called before the first frame update
     void Start()
